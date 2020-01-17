@@ -4,7 +4,7 @@ description: First app run
 
 # Getting started
 
-Welcome to the 2nd most important Wine's project. If you're reading this, you have been invited to something big. Be happy!
+Welcome to the 2nd most important Wine's project. If you're reading this, you have been invited to something big. Be happy about it!
 
 ```typescript
 declare interface Documents {
