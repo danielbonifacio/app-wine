@@ -10230,6 +10230,11 @@ react-native-gesture-handler@^1.5.3:
     invariant "^2.2.4"
     prop-types "^15.7.2"
 
+react-native-google-pay@^2.0.0:
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/react-native-google-pay/-/react-native-google-pay-2.0.0.tgz#cf06fb8cebbbad2f97a78db59d7eb3a66ed98478"
+  integrity sha512-Hy/Rcv9X4As2X0bUJiXryJURpNuxvX1NeaJqneUJe3ShgM262XSy281xXjyoH7IkKhdf2MMMj3sJ3lQLpNc51A==
+
 react-native-iphone-x-helper@^1.2.1:
   version "1.2.1"
   resolved "https://registry.yarnpkg.com/react-native-iphone-x-helper/-/react-native-iphone-x-helper-1.2.1.tgz#645e2ffbbb49e80844bb4cbbe34a126fda1e6772"
