@@ -1,5 +1,5 @@
 # Table of contents
 
 * [Getting started](README.md)
-* [Navigation](navigation.md)
+* [Writing a component](writting-a-component.md)
 
